@@ -1,2 +1,2 @@
-# ThinkPadW520
-Files for modding W520
+# ThinkPadW530
+Files for modding W530
